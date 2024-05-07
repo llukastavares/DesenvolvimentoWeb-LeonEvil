@@ -1,0 +1,187 @@
+/*parte um */
+.my-container {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    color: red;
+}
+
+.banner-principal {
+    background-image: url(imagens/banner-principal.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.leonevil img {
+    height: 160px;
+    width: 500px;
+}
+
+.my-title {
+    padding: 5px;
+    text-align: center;
+}
+
+#leonevil {
+    padding-top: 30px;
+}
+
+.form1 {
+    text-align: center;
+    padding-bottom: 5px;
+}
+
+.caixa-texto {
+    margin-right: 10px;
+}
+
+#button {
+    background-color: white;
+    color: rgb(100, 99, 99);
+}
+
+.logo {
+    padding: 15px;
+    text-align: center;
+}
+
+#ada {
+    width: 60px;
+    height: 60px;
+}
+
+#leo {
+    width: 52px;
+    height: 52px;
+}
+
+#mercador {
+    width: 60px;
+    height: 60px;
+}
+
+#wesker {
+    width: 44px;
+    height: 44px;
+}
+
+/* parte dois*/
+
+.icons {
+    padding: 0%;
+    border-radius: 100%;
+}
+
+#cartao {
+    border: 0;
+}
+
+.div-2 {
+    text-align: center;
+}
+
+.texto-2{
+    text-align: center;
+    padding: 2%;
+}
+
+.cartao-1 {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding: 3%;
+}
+
+.cartao-2 {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    padding: 3%;
+}
+
+.sessao-3 {
+    align-items: center;
+    border: 1px solid rgb(255, 255, 255);
+    background-color: rgb(1, 0, 3);
+    padding: 5%;
+    background-size: cover;
+    
+}
+
+.sessao-3-texto {
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+}
+
+.sessao-4 {
+    align-items: center;
+    padding: 5%;
+}
+
+.sessao-4-texto {
+    margin: 5%;
+    text-align: left;
+
+}
+
+.sessao-5 {
+    align-items: center;
+    text-align: center;
+    padding: 5%;
+    background-image: url(imagens/background.jpg);
+    padding: 5%;
+    background-size: cover;
+    border: 1px solid rgb(228, 163, 65);
+}
+
+.sessao-5-texto {
+    padding: 5%;
+    padding-left: 30%;
+    padding-right: 30%;
+}
+
+.sessao-5-logo {
+    padding: 5px;
+    text-align: center;
+}
+
+.sessao-5-fotos {
+    margin-left: 8px;
+    margin-right: 8px;
+    width: 60px;
+    height: 60px;
+    transition: 0.5s;
+    border: 1px solid black;
+    border-radius: 100%;
+}
+
+.sessao-5-fotos:hover {
+    transform: scale(1.5);
+}
+
+.sessao-6 {
+    padding: 1%;
+    text-align: center;
+}
+
+.form2 {
+    text-align: center;
+    padding-bottom: 1%;
+}
+
+.footer {
+    background-color: rgba(0, 0, 0, 0.788);
+    border: 1px solid rgb(228, 163, 65);
+}
+
+.footer-desenvolvimentoweb {
+    align-items: center;
+    display: flex;
+    text-align: left;
+    margin-left: 250px;
+}
+
+.leonevil img {
+    height: 40px;
+    width: 40px;
+}
